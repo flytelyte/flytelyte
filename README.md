@@ -1,8 +1,9 @@
-Hi there,
+👋 Hi, I'm Yuki Oshiro
+Computer Science Student @ ELTE | Quantum Enthusiast | ML |Software Auditor
+
+I am a 2nd-year Computer Science student at Eötvös Loránd University (ELTE). My interest sits at the intersection of semantic analysis, software auditing, and quantum computing. Currently, I am expanding my technical horizons by participating in Master's-level research project at the ELTE Modeling Lab.
 
 
--- 🔭 I'm currently studing Computer Science as student, I'm interested in something new for me!!
-
--- 🌱  I'm currently learnig C++ , Algorithms and Data Structure.
-
--- 🤔 I'm looking for info for help of my uni's study
+📊 What I'm Working On
+    🔭 Modeling Lab Research: Deep-diving into framework architecture as part of an advanced research group.
+    🛡️ Cybersecurity: Refining my BB84 protocol implementation and exploring new cryptographic standards.
